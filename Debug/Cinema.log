@@ -1,0 +1,9 @@
+﻿  Cinema.cpp
+C:\Users\f-abd\source\repos\Cinema\Cinema\Cinema.cpp(29,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Cinema\Cinema\Cinema.cpp(42,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Cinema\Cinema\Cinema.cpp(74,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Cinema\Cinema\Cinema.cpp(76,28): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Cinema\Cinema\Cinema.cpp(90,30): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Cinema\Cinema\Cinema.cpp(123,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\f-abd\source\repos\Cinema\Cinema\Cinema.cpp(161,25): warning C4018: <: несоответствие типов со знаком и без знака
+  Cinema.vcxproj -> C:\Users\f-abd\source\repos\Cinema\Debug\Cinema.exe
